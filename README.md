@@ -1,3 +1,3 @@
-![](docs/top-banner.jpg).
+![](docs/top-banner.jpg)
 
 #### [Documentation]() | [FAQs]() | [Community]() | [Privacy policy]() 
