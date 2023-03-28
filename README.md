@@ -1,18 +1,10 @@
 <p align="center">
-
-<img src="./images/top-banner.jpg">
-
-#### [Documentation]()  [FAQs]()  [Community]() [Privacy policy]()
-
-### Start your tech career with Jagaad Academy!
-
-#### [Become a developer in 24 weeks with in a fully remote academy.]()
-
-### Follow us on: [Instagram](https://www.instagram.com/academyjagaad/) | [Facebook](https://www.facebook.com/JagaadAcademy) | [Linkedin](https://www.linkedin.com/school/jagaad-academy/)
-
----
-
-</p>
+<img src="./images/top-banner.jpg" />
+<h4 align="center"> <a href="#">Documentation</a>  <a href="#">FAQs</a>  <a href="#">Community</a> <a href="#">Privacy policy</a> </h4>
+<h3 align="center">Start your tech career with Jagaad Academy!</h3>
+<a href="#"><h4 align="center">Become a developer in 24 weeks with in a fully remote academy.</h4></a>
+<h3 align="center">Follow us on: <a href="https://www.instagram.com/academyjagaad/">Instagram</a> | <a href="https://www.facebook.com/JagaadAcademy">Facebook</a> | <a href="https://www.linkedin.com/school/jagaad-academy/">Linkedin</a></h3>
+<hr align="center" /></p>
 
 # Summary
 
@@ -42,7 +34,7 @@ Our courses focus on teaching you the best tech-stacks, but you will also gain s
 - Great career progression and salary
 - HR assistance
 
-<img src="./images/hashtag-jagaad-academy.png">
+![](./images/hashtag-jagaad-academy.png)
 
 # Community
 
@@ -92,7 +84,7 @@ These are just some Tech/Topics you will learn:
 - Design Patterns
 - Symfony Basics
 
-<img src="./images/hashtag-jagaad-coach.png">
+![](./images/hashtag-jagaad-coach.png)
 
 # Become a coach
 
