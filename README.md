@@ -2,7 +2,7 @@
 <img src="./images/top-banner.jpg" />
 <h4 align="center"> <a href="#">Documentation</a>  <a href="#">FAQs</a>  <a href="#">Community</a> <a href="#">Privacy policy</a> </h4>
 <h3 align="center">Start your tech career with Jagaad Academy!</h3>
-<a href="https://academy.jagaad.com/course/php-backend-development/"><h4 align="center">Become a developer in 24 weeks with in a fully remote academy.</h4></a>
+<h4 align="center"><a href="https://academy.jagaad.com/course/php-backend-development/">Become a developer in 24 weeks with in a fully remote academy.</a></h4>
 <h3 align="center">Follow us on: <a href="https://www.instagram.com/academyjagaad/">Instagram</a> | <a href="https://www.facebook.com/JagaadAcademy">Facebook</a> | <a href="https://www.linkedin.com/school/jagaad-academy/">Linkedin</a></h3>
 <hr align="center" /></p>
 
