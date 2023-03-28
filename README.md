@@ -1,4 +1,4 @@
-<center>
+<p align="center">
 
 <img src="./images/top-banner.jpg">
 
@@ -12,7 +12,7 @@
 
 ---
 
-</center>
+</p>
 
 # Summary
 
@@ -20,7 +20,7 @@ Our mission is to grow the biggest community of companies and IT talents, so we 
 
 We teach our students how to build dynamic web applications using HTML, CSS, and TypeScript: everything they need to know for developing interfaces.
 
-### After graduation students will be able to:
+## After graduation students will be able to:
 
 - Work with the most on-demand frameworks
 - Solve real projects in different workplace scenarios
@@ -34,7 +34,7 @@ Our courses focus on teaching you the best tech-stacks, but you will also gain s
 
 **Our team of 50+ developers is spread around the world.**
 
-### Perks and advantages
+## Perks and advantages
 
 - Pay when you get a job
 - Hiring opportunities
