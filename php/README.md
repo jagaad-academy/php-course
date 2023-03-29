@@ -1,6 +1,6 @@
 # Running the test file 🥷🐘
 
-This is the way PHP internal run the tests. See [Running the test suite](https://www.phpinternalsbook.com/tests/running_the_test_suite.html) in the PHP Internals Book.
+This is the way PHP internals runs the tests. See [Running the test suite](https://www.phpinternalsbook.com/tests/running_the_test_suite.html) in the PHP Internals Book.
 
 *Version: PHP 8.2*
 
