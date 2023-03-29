@@ -14,11 +14,10 @@ We teach our students how to build dynamic web applications using HTML, CSS, and
 
 ## After graduation students will be able to:
 
-- Work with the most on-demand frameworks
-- Solve real projects in different workplace scenarios
-- Create web applications using HTML, CSS, Js, Ts and React
-- Work with a programming mindset to add complexity to every web page
-- Integrate easily to your teams
+- Write PHP code in the right way by learning the most popular server-side programming language
+- To understand web services solutions, we will learn about communication between applications and how to create a Web API using the REST architectural style.
+- Understand the web ecosystem, protocol, client and server-side applications
+- Set-up your developer environment to be prepared to join a company as a junior backend developer
 
 # Why joining Jagaad Academy?
 
