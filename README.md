@@ -97,7 +97,7 @@ We're looking for people we can pay to create full-length Scrimba courses. If yo
 
 # Contact us
 
-You can contact us directly on [LikedIn](https://www.linkedin.com/school/jagaad-academy/) or on [Facebook](https://www.facebook.com/JagaadAcademy). We also have a live chat on our website through Facebook messenger to make things even easier.  
+You can contact us directly on [LinkedIn](https://www.linkedin.com/school/jagaad-academy/) or on [Facebook](https://www.facebook.com/JagaadAcademy). We also have a live chat on our website through Facebook messenger to make things even easier.  
 
 If you want to write us you can also do it here:  
 [academy@jagaad.com](mailto:academy@jagaad.com)
