@@ -1,0 +1,5 @@
+/hello.*
+/run-tests.php
+
+/tests/*
+!/tests/hello.phpt
