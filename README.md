@@ -8,62 +8,37 @@
 
 # Summary
 
-Our mission is to grow the biggest community of companies and IT talents, so we teach software development courses and we also tailor B2B programs to update corporate team skills in IT.  
+Our mission is to cultivate a diverse community of companies and IT talents, offering comprehensive software development courses and tailored B2B programs to enhance corporate team skills in the IT industry.  
 
-We teach our students how to build dynamic web applications using HTML, CSS, and TypeScript: everything they need to know for developing interfaces.
+Learn PHP coding the right way and master the most popular server-side programming language. Gain insights into web services and communication between applications, and discover how to create a Web API using REST architecture. Expand your knowledge of the web ecosystem, protocols, and client-server applications, and set up your developer environment to kickstart your career as a junior backend developer.
 
-## After graduation students will be able to:
+# Why you should choose Jagaad Academy
 
-- Write PHP code in the right way by learning the most popular server-side programming language
-- To understand web services solutions, we will learn about communication between applications and how to create a Web API using the REST architectural style.
-- Understand the web ecosystem, protocol, client and server-side applications
-- Set-up your developer environment to be prepared to join a company as a junior backend developer
-
-# Why joining Jagaad Academy?
-
-Our courses focus on teaching you the best tech-stacks, but you will also gain skills such in teamwork, problem-solving, leadership, and more.  
-
-**Our team of 50+ developers is spread around the world.**
+We empower you with top tech stacks and help develop essential skills alongside our team of 50+ developers. You can gain expertise in tech and leadership training as you learn from our diverse team of developers spread across the world. Our courses not only focus on tech stacks but also develop teamwork, problem-solving, leadership, and other essential skills.
 
 ## Perks and advantages
 
-- Pay when you get a job
+- Study now, pay later
 - Hiring opportunities
 - Learn the most in-demand skills
-- Great career progression and salary
 - HR assistance
 
 ![](./images/hashtag-jagaad-academy.png)
 
+# Scholarships
+
+Jagaad Academy wants to help students in the best way possible hence, we have introduced a scholarship program to empower and motivate our students to excel in their courses. We will provide scholarships to 4 top performing students (50% Off on Course Fees) upon the end of the course. 
+
 # Community
 
-The development. It's for those who want a proper, well-rounded grounding in concepts fundamental to all computing disciplines, and for those who have the discipline, will, and (most importantly!) good habits to obtain this education largely on their own, but with support from a worldwide community of fellow learners.
+With a team of 50+ developers worldwide, you'll have the opportunity to collaborate with professionals from diverse backgrounds. You can join our community in the following handles:
 
 **[Instagram](https://www.instagram.com/academyjagaad/)  / [Facebook](https://www.facebook.com/JagaadAcademy) / [Linkedin](https://www.linkedin.com/school/jagaad-academy/)**
 
-# Frequently Asked Questions - [All FAQs](https://academy.jagaad.com/faq/)
 
-Here you can find some of the most asked questions, however for a full list of questions please access our website.
+# What will you learn in the BE course with Jagaad Academy?
 
-## Do you have free courses that I can access?
-
-Our free courses are totally free, and they don’t require you to enroll in our full-time course. You can follow them whenever you prefer! Please access here: [https://academy.jagaad.com/free-courses/](https://academy.jagaad.com/free-courses/)
-
-## How much do the courses cost?
-
-We teach our courses through a “study now, pay later” format. You will only need to pay for course once you find a job in the IT industry. And within 18 months from your graduation date, you will receive our assistance in helping you find a job.
-
-- 6 months courses cost €3000
-- We offer the possibility to pay monthly fees of €149.50 euro for 20 months
-- You can also pay everything in one installment
-
-## Will I be supported in looking for a new job after the course?
-
-Of course!During the course you will have a dedicated module were will assist you in interview preparation, LinkedIn profile optimization and CV creation. You will just need to follow these steps when applying for a job.After graduation, the best performers will be invited to work for Jagaad. We will also contact graduates with our IT partner companies who are willing to hire new profiles.
-
-# What will I learn? - BE
-
-These are just some Tech/Topics you will learn:
+Jagaad Academy's comprehensive Backend (BE) curriculum includes the following topics: 
 
 - Syntax
 - Types
@@ -85,24 +60,51 @@ These are just some Tech/Topics you will learn:
 
 ![](./images/hashtag-jagaad-coach.png)
 
-# Become a coach
+# Join us as a coach 
 
-We're looking for people we can pay to create full-length Scrimba courses. If you're interested, please access our website and fill the form or send us a direct message explaining why youw ant to become a coach with us and the area of expertise.
+Are you a seasoned professional interested in sharing your knowledge? Join us as a coach and get paid to create full-length Scrimba courses. We're looking for experienced individuals who have a taste for adventure and a passion for teaching bright minds. 
 
-## Prerequisites to become a coach
+## What should our coaches have? 
 
-- More than 5+ years of experience on a given topic
-- Taste for adventure and teach new bright minds
-- Always ready to help and make things easier for the students and guide them along the process
+- More than 5+ years of experience in a given topic
+- Zeal to help and make things easier for the students and guide them along the process
+  
+# Frequently Asked Questions - [All FAQs](https://academy.jagaad.com/faq/)
+
+Here are a few of the crucial FaQs but if you can’t find answers here. Please have a look at a full list of questions on our website.
+
+# Do you have free courses that I can access?
+
+We have free courses which can help you kickstart your learning journey. Our free courses are totally free, and they don’t require you to enroll in our full-time course. You can follow them whenever you prefer! Please access here: [https://academy.jagaad.com/free-courses/](https://academy.jagaad.com/free-courses/)
+
+# How much do the courses cost?
+
+We teach our courses through a “study now, pay later" format, allowing you to pay for the course after 2 months from your graduation.
+
+- 6 month course cost €3000
+- We offer to pay in Easy Monthly Installment
+- You can also pay everything in one installment
+
+# Will I be supported in looking for a new job after the course?
+
+Our comprehensive course includes a dedicated module to support you in interview preparation, LinkedIn profile optimization, and CV creation, giving you the edge in your job search.
+
+Upon graduation, our top performers have the opportunity to join the Jagaad team and work on exciting projects. We also connect our graduates with our network of IT partner companies looking to hire fresh talent.
+
+From interview prep to job placement, we guide you every step of the way, ensuring your success in the IT industry. 
 
 # Contact us
 
-You can contact us directly on [LinkedIn](https://www.linkedin.com/school/jagaad-academy/) or on [Facebook](https://www.facebook.com/JagaadAcademy). We also have a live chat on our website through Facebook messenger to make things even easier.  
+Fill out the form on our website or send us a direct message to express your interest and area of expertise.
 
-If you want to write us you can also do it here:  
+To get in touch with us, reach out directly on  [LinkedIn](https://www.linkedin.com/school/jagaad-academy/) or on [Facebook](https://www.facebook.com/JagaadAcademy). We also offer a convenient live chat option on our website through Facebook Messenger.
+
+Also if you want to contact us directly, you can write to us at:
 [academy@jagaad.com](mailto:academy@jagaad.com)
 
 # Privacy policy
 
-We don’t want to bother you with these things, but they must be present.  
-Please check all details on our website: [https://academy.jagaad.com/privacy/](https://academy.jagaad.com/privacy/)
+For more information and to review our privacy policy, please visit our website: 
+[https://academy.jagaad.com/privacy/](https://academy.jagaad.com/privacy/)
+
+
