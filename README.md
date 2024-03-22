@@ -18,10 +18,10 @@ We empower you with top tech stacks and help develop essential skills alongside 
 
 ## Perks and advantages
 
-- Study now, pay later
-- Hiring opportunities
-- Learn the most in-demand skills
-- HR assistance
+- Engaging live online classes in small cohorts;
+- Flexible payment & generous scholarships;
+- Access to exclusive tech hiring partners & career support
+- Thriving global community.
 
 ![](./images/hashtag-jagaad-academy.png)
 
@@ -79,11 +79,11 @@ We have free courses which can help you kickstart your learning journey. Our fre
 
 # How much do the courses cost?
 
-We teach our courses through a “study now, pay later" format, allowing you to pay for the course after 2 months from your graduation.
+Our course pricing varies depending on the chosen payment option. Jagaad Academy offers a range of payment options to meet our students' needs, including both upfront payments and installment plans. Each finance option is assessed on a case-by-case basis.
 
-- 6 month course cost €3000
-- We offer to pay in Easy Monthly Installment
-- You can also pay everything in one installment
+The options and their criteria are as follows:
+- <b>Best Value:</b> Pay upfront and receive a <b>€1200 discount</b> off the course price.
+- <b>Flexible Payment Options:</b> We offer 3, 12, and 24-month payment plans, allowing you to start your career for as little as €167 a month.
 
 # Will I be supported in looking for a new job after the course?
 
