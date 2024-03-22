@@ -81,7 +81,7 @@ We have free courses which can help you kickstart your learning journey. Our fre
 
 Our course pricing varies depending on the chosen payment option. Jagaad Academy offers a range of payment options to meet our students' needs, including both upfront payments and installment plans. Each finance option is assessed on a case-by-case basis.
 
-The options and their criteria are as follows:
+<b>The options and their criteria are as follows:</b>
 - <b>Best Value:</b> Pay upfront and receive a <b>€1200 discount</b> off the course price.
 - <b>Flexible Payment Options:</b> We offer 3, 12, and 24-month payment plans, allowing you to start your career for as little as €167 a month.
 
