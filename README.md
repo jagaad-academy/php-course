@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./images/top-banner__.jpg" />
+<img src="./images/top-banner___.jpg" />
 <h4 align="center"> <a href="#">Documentation</a>  <a href="#">FAQs</a>  <a href="#">Community</a> <a href="#">Privacy policy</a> </h4>
 <h3 align="center">Start your tech career with Jagaad Academy!</h3>
 <h4 align="center"><a href="https://academy.jagaad.com/course/php-backend-development/">Become a developer in 24 weeks with in a fully remote academy.</a></h4>
